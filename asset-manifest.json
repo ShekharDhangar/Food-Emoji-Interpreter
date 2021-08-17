@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shekhardhangar.github.io/csb-xd14x/static/css/main.3aa08835.chunk.css",
+    "main.js": "https://shekhardhangar.github.io/csb-xd14x/static/js/main.4a6b0f1b.chunk.js",
+    "main.js.map": "https://shekhardhangar.github.io/csb-xd14x/static/js/main.4a6b0f1b.chunk.js.map",
+    "runtime-main.js": "https://shekhardhangar.github.io/csb-xd14x/static/js/runtime-main.6711777b.js",
+    "runtime-main.js.map": "https://shekhardhangar.github.io/csb-xd14x/static/js/runtime-main.6711777b.js.map",
+    "static/js/2.c400eb4c.chunk.js": "https://shekhardhangar.github.io/csb-xd14x/static/js/2.c400eb4c.chunk.js",
+    "static/js/2.c400eb4c.chunk.js.map": "https://shekhardhangar.github.io/csb-xd14x/static/js/2.c400eb4c.chunk.js.map",
+    "index.html": "https://shekhardhangar.github.io/csb-xd14x/index.html",
+    "static/css/main.3aa08835.chunk.css.map": "https://shekhardhangar.github.io/csb-xd14x/static/css/main.3aa08835.chunk.css.map",
+    "static/js/2.c400eb4c.chunk.js.LICENSE.txt": "https://shekhardhangar.github.io/csb-xd14x/static/js/2.c400eb4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6711777b.js",
+    "static/js/2.c400eb4c.chunk.js",
+    "static/css/main.3aa08835.chunk.css",
+    "static/js/main.4a6b0f1b.chunk.js"
+  ]
+}
